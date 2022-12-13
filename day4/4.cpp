@@ -5,6 +5,6 @@ string a, b;
 void solve() {}
 
 int main() {
-  freopen("4.txt", "r", stdin);
   solve();
+  cout << "test" << endl;
 }

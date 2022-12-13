@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "algorithms": "^0.10.0"
+    "algorithms": "^0.10.0",
+    "mathball": "^0.4.0"
   }
 }

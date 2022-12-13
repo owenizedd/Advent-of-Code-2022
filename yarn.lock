@@ -6,3 +6,8 @@ algorithms@^0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/algorithms/-/algorithms-0.10.0.tgz#f93ffd435d79fd3fc0b32e28ef3629240b71b720"
   integrity sha512-f5X+lDALkG6V4Y0IWrOLEEJ8GGW2enbaGSaJwcqddk4irIvzULkNMPqnTUQlRG/0eDdFc7agRhtfPmbFmuntgg==
+
+mathball@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/mathball/-/mathball-0.4.0.tgz#1dc2f7cf182c18a0278eb87f600b3a9a57d06dc7"
+  integrity sha512-SLy11rnXCc4km7nLR1N3GTgrj/0XcnXjF6gI4F5gVIEHmaBYC3LkasLocwj3S60A6xIjzsXaHKKmLaz5GRrLbg==
